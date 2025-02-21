@@ -1,0 +1,27 @@
+[
+    {
+        "directory": "/Users/romeoazizian/Turion Take 1",
+        "command": "/usr/bin/clang++ -std=c++17 -Wall -Wextra -O2 -I./include -c src/main.cpp -o obj/main.o",
+        "file": "src/main.cpp"
+    },
+    {
+        "directory": "/Users/romeoazizian/Turion Take 1",
+        "command": "/usr/bin/clang++ -std=c++17 -Wall -Wextra -O2 -I./include -c src/sensor_simulator.cpp -o obj/sensor_simulator.o",
+        "file": "src/sensor_simulator.cpp"
+    },
+    {
+        "directory": "/Users/romeoazizian/Turion Take 1",
+        "command": "/usr/bin/clang++ -std=c++17 -Wall -Wextra -O2 -I./include -c src/data_processor.cpp -o obj/data_processor.o",
+        "file": "src/data_processor.cpp"
+    },
+    {
+        "directory": "/Users/romeoazizian/Turion Take 1",
+        "command": "/usr/bin/clang++ -std=c++17 -Wall -Wextra -O2 -I./include -c src/ipc_manager.cpp -o obj/ipc_manager.o",
+        "file": "src/ipc_manager.cpp"
+    },
+    {
+        "directory": "/Users/romeoazizian/Turion Take 1",
+        "command": "/usr/bin/clang++ -std=c++17 -Wall -Wextra -O2 -I./include -c src/output_handler.cpp -o obj/output_handler.o",
+        "file": "src/output_handler.cpp"
+    }
+] 

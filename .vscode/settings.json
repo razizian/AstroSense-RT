@@ -1,0 +1,19 @@
+{
+    "C_Cpp.default.includePath": [
+        "${workspaceFolder}/**",
+        "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include",
+        "/Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include",
+        "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1",
+        "/usr/local/include"
+    ],
+    "C_Cpp.default.intelliSenseMode": "macos-clang-arm64",
+    "C_Cpp.default.cppStandard": "c++17",
+    "C_Cpp.default.browse.path": [
+        "${workspaceFolder}"
+    ],
+    "C_Cpp.errorSquiggles": "enabled",
+    "C_Cpp.intelliSenseEngine": "default",
+    "files.associations": {
+        "random": "cpp"
+    }
+} 
