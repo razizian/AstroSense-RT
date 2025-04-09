@@ -1,4 +1,4 @@
-# Real-Time Sensor Data Processing System
+# Spacecraft Real-Time Sensor Data Processing System
 
 A real-time sensor data processing module for an embedded Linux spacecraft system. The system simulates sensor data, processes it using a moving average, and communicates between processes using POSIX Message Queues.
 
